@@ -24,55 +24,55 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/abide0'
-global.tautanwa = 'https://wa.me/6288232154376'
-global.sgh = 'https://github.com/AbiDev11' //github
-global.sgc = 'https://chat.whatsapp.com/BKi5RCs2EHaG2g0e2bJ72r' //group whatsapp
+global.sig = 'https://instagram.com'
+global.tautanwa = 'https://wa.me/6282131369002'
+global.sgh = 'https://github.com/sanzy-mods' //github
+global.sgc = 'https://chat.whatsapp.com/EMxS4mg47pAEPSGjpct6us' //group whatsapp
 global.sdc = '-' //discord
-global.syt = 'https://youtube.com/@AbiDev11'
+global.syt = 'https://youtube.com/@leviwangyy'
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/BKi5RCs2EHaG2g0e2bJ72r'
+global.snh = 'https://chat.whatsapp.com/EMxS4mg47pAEPSGjpct6us'
 global.media = 'https://telegra.ph/file/3cc9a3269020ba59cdfa3.jpg'
-global.wame = 'https://wa.me/6288232154376'
+global.wame = 'https://wa.me/6282131369002'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['6288232154376', 'AbiDev1', true],
-['6281282692009', 'digi', true]
+['6282131369002', 'levi', true],
+['6285171615843', 'bot wa', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283131475901' //pasang no bot lo 
-global.nomorown = '6288232154376' //pasang no own lo
-global.nomorown1 = '6288232154376'
-global.nomorown2 = '6281282692009'
+global.nomorbot = '6285171615843' //pasang no bot lo 
+global.nomorown = '6282131369002' //pasang no own lo
+global.nomorown1 = '6282131369002'
+global.nomorown2 = '6282131369002'
 global.nomorwa = '0'
-global.nameown = 'AbiDev11'
-global.gcname = '𝙺𝙰𝙶𝚄𝙼𝙸 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴'
-global.author = 'Created By 𝙺𝙰𝙶𝚄𝙼𝙸 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴'
-global.namebot = '𝙺𝙰𝙶𝚄𝙼𝙸 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴'
-global.packname2 = 'AbiDev11'
+global.nameown = 'levi'
+global.gcname = 'SANZY BOT MD'
+global.author = 'Created By SANZY BOT MULTI DEVICE'
+global.namebot = 'SANZY BOT'
+global.packname2 = 'levi'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= 'AbiDev11'
-global.nameown2 = '𝙺𝙰𝙶𝚄𝙼𝙸 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴'
+global.nameown1= 'levi'
+global.nameown2 = 'SANZY MULTI DEVICE'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙺𝙰𝙶𝚄𝙼𝙸 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴'
-global.wm2 = 'AbiDev11 '
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Sanzyy Modss'
+global.wm2 = 'levi '
 global.packname = wm
 global.watermark = wm
 global.danied = '          ⚠️ 𝐀𝐜𝐜𝐞𝐬 𝐃𝐚𝐧𝐢𝐞𝐝 ⚠️  '
-global.titlebot = `𝙺𝙰𝙶𝚄𝙼𝙸 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴`
+global.titlebot = `SANZYY BOT`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = 'AbiDev11'
-global.stickauth = `© 𝙺𝙰𝙶𝚄𝙼𝙸 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴`
+global.stickpack = 'levi'
+global.stickauth = `© SANZY BOT`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -84,7 +84,7 @@ global.wibb = `${wktuwib}`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INTRO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.botintro = 'Hallo, Saya 𝙺𝙰𝙶𝚄𝙼𝙸 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh AbiDev11 Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Saya Sanzyy mods Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh levi Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/3cc9a3269020ba59cdfa3.jpg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -94,11 +94,11 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '088232154376' //pasang no lo sinih buat donasi 
+global.pdana = '-' //pasang no lo sinih buat donasi 
 global.povo = '-' 
-global.pgopay = '088232154376'
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '088232154376'
+global.ppulsa = '082131369002'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 global.donasikabul = '-',
